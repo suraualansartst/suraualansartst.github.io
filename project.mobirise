@@ -719,7 +719,7 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": false,
+            "slides__autoplay": true,
             "slides__autoplayInterval": 4000,
             "slides__showBullets": true,
             "slides": [
@@ -741,7 +741,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/pembinaan-surau-21-1280x403.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -808,7 +808,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/iftar-perdana-dan-majlis-khatam-quran-2-960x540.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
